@@ -1,0 +1,1 @@
+csharp-libtorrent is a project to make a C# wrapper for libtorrent.
